@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanan15032003&label=Profile%20views&color=0e75b6&style=flat" alt="saravanan15032003" /> </p>
 
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
+- 🌱 I’m currently learning DSA 
 
 - 📫 How to reach me [Mail]**kabilg2004@gmail.com**
 
