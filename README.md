@@ -7,7 +7,7 @@
 
 - 📫 How to reach me [Mail]**kabilg2004@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12dIbnnUiPa49R0rile48GvnjgZapK-Jq/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17lVEN7HM4S0o-cS0XaRxDw1pD18YnC1x/view?usp=drive_link).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
