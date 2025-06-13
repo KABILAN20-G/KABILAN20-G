@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/kabilang2004/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"  height="48" width="48" /></a>
 
 ### I code in
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/html.png" alt="html"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/css.png" alt="css"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
 ### IDE and Tools I Use
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>   <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>  <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
