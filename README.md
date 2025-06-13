@@ -18,5 +18,5 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/html.png" alt="html"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/css.png" alt="css"/>
 
 ### IDE and Tools I Use
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>   <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>  <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>   <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>  <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
  
